@@ -5,4 +5,4 @@ do {
 } while (c <=10) 
     
 
-
+/* while é igual enquanto*/
